@@ -5,5 +5,7 @@ public class Main {
         System.out.println("인상진");
         World.run();
         World.run2();
+        Hello.run();
+        Hello.run2();
     }
 }
